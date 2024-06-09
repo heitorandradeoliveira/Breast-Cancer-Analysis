@@ -27,6 +27,7 @@ O objetivo deste projeto é explorar a base de dados de câncer de mama, realiza
 ### Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
+
 ```
 Breast-Cancer-Analysis/
 ├── data/
@@ -43,11 +44,13 @@ Breast-Cancer-Analysis/
 ## Etapas do Projeto
 
 1. **Análise Exploratória de Dados (EDA)**:
+
    - Explorar a estrutura dos dados.
    - Visualizar a distribuição das características.
    - Identificar correlações entre as características.
 
 2. **Pré-processamento de Dados**:
+
    - Tratar valores ausentes, se necessário.
    - Codificar variáveis categóricas, se aplicável.
    - Normalizar ou padronizar os dados, se necessário.
@@ -67,8 +70,9 @@ Breast-Cancer-Analysis/
 3. Execute o código em sua plataforma preferida para análise de dados (Jupyter Notebook, Google Colab, etc.).
 
 ## Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias ou adicionar novos recursos ao projeto.
 
 ## Contato
-Para qualquer dúvida ou sugestão, entre em contato com [Heitor Andrade Oliveira](mailto:heitor3344@gmail.com).
 
+Para qualquer dúvida ou sugestão, entre em contato com [Heitor Andrade Oliveira](mailto:heitor3344@gmail.com).
